@@ -1,7 +1,8 @@
+@import "~font-awesome/css/font-awesome.min.css";
 body {
   font-family: 'Josefin Sans';
-  background-color: #FFFAFB;
-  /* background-color: pink; */
+  /* background-color: #FFFAFB; */
+  background-color: rgb(230, 230, 230);
 }
 
 * {
@@ -57,10 +58,11 @@ body {
 .hero-banner-img {
   position: absolute;
   right: 40px;
-  top: 40px;
+  top: 45px;
   width: 700px;
   height: 900px;
   margin-top: -330px;
+  border-radius: 3%;
 
 }
 
