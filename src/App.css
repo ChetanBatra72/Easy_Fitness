@@ -1,8 +1,9 @@
 @import "~font-awesome/css/font-awesome.min.css";
 body {
   font-family: 'Josefin Sans';
-  /* background-color: #FFFAFB; */
-  background-color: rgb(230, 230, 230);
+  /* background-color: gray; */
+  /* background-color: rgb(210, 207, 207); */
+  background-color: rgba(192, 187, 187, 0.993);
 }
 
 * {
