@@ -3,7 +3,8 @@ body {
   font-family: 'Josefin Sans';
   /* background-color: gray; */
   /* background-color: rgb(210, 207, 207); */
-  background-color: rgba(192, 187, 187, 0.993);
+  background-color: #fff;
+  /* background-color: rgba(213, 201, 201, 0.993); */
 }
 
 * {
@@ -145,4 +146,9 @@ body {
   .exercise-card {
     width: 280px;
   }
+}
+.navText{
+  background-color: #ff25ba;
+  /* font-size: 300px; */
+  display: inline-block;
 }
