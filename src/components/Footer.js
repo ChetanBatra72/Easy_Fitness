@@ -14,10 +14,10 @@ const Footer = () => (
       Built by: <span style={{ fontFamily: 'Georgia, serif', color: '#FFA500' }}>Chetan Batra</span>
     </Typography>
     <div style={{ display: 'flex', justifyContent: 'center' }}>
-      <a href="https://www.linkedin.com/in/chetan-batra-17b8731b7/" target="_blank" rel="noopener noreferrer" style={{ marginRight: '10px', color: '#FFA500', fontSize: '20px' }}>
+      <a href="https://www.linkedin.com/in/chetan-batra-17b8731b7/" target="_blank" rel="noopener noreferrer" style={{ marginRight: '10px', color: 'blue', fontSize: '20px' }}>
         <i className="fa fa-linkedin-square" aria-hidden="true"></i>
       </a>
-      <a href="https://github.com/ChetanBatra72" target="_blank" rel="noopener noreferrer" style={{ color: '#FFA500', fontSize: '20px' }}>
+      <a href="https://github.com/ChetanBatra72" target="_blank" rel="noopener noreferrer" style={{ color: 'black', fontSize: '20px' }}>
         <i className="fa fa-github" aria-hidden="true"></i>
       </a>
     </div>
