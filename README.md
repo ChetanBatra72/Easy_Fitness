@@ -28,8 +28,8 @@ To use the Gym App Name, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1]()
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](/src/assets/images/screenshot1.PNG)
+
 
 ## Contributing
 
@@ -44,4 +44,4 @@ For any inquiries or collaborations, feel free to reach out:
 - **Gmail**: chetanbat2001@.com
 
 ## Live Website
-- **Hosting**: [Your App's Hosting Link](https://www.yourapp.com)
+- **Hosting**: (https://exerconnect-bake.onrender.com)
